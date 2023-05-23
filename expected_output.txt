@@ -1,0 +1,12 @@
+Current number: 10
+Your turn, Player. Enter 1 or 2: 2
+Current number: 8
+Current number: 7
+Your turn, Player. Enter 1 or 2: 2
+Current number: 5
+Current number: 4
+Your turn, Player. Enter 1 or 2: 1
+Current number: 3
+Current number: 1
+Your turn, Player. Enter 1 or 2: 1
+Congratulations, Player! You won!
