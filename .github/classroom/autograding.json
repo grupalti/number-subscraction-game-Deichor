@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Completeness test",
+      "setup": "",
+      "run": "./completeness_test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
